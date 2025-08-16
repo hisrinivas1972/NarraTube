@@ -1,6 +1,7 @@
 streamlit
 yt_dlp
 moviepy
+imageio-ffmpeg
 torch
 torchaudio
 langdetect
