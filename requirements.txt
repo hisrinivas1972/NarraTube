@@ -1,9 +1,12 @@
-streamlit
-yt_dlp
-moviepy
-imageio-ffmpeg
-torch
-torchaudio
-langdetect
-deep-translator
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+streamlit==1.35.0
+yt_dlp==2024.4.9
+moviepy==1.0.3
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+torch==2.3.0+cpu
+torchaudio==2.3.0+cpu
+langdetect==1.0.9
+deep-translator==1.11.4
 git+https://github.com/openai/whisper.git
